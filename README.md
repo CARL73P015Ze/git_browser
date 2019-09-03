@@ -1,8 +1,8 @@
 # git_browser
-git browser in php
+git browser in php, screenshot here screenshot.PNG
 
 
-the file: "git-log.php"  contains the front end UI.
+the file: "index.php"  contains the front end UI.
 
 the file: "git_core.php" contains some configuration variables:
 
